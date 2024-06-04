@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c9cfba0d.css",
+    "main.js": "/static/js/main.8af07a3a.js",
+    "static/js/453.5ee68738.chunk.js": "/static/js/453.5ee68738.chunk.js",
+    "static/media/second.png": "/static/media/second.26cb0e535a84f446594f.png",
+    "static/media/woman.png": "/static/media/woman.43138a92e257b4a6f830.png",
+    "static/media/some.jpeg": "/static/media/some.a0420205e95689890658.jpeg",
+    "static/media/compp.jpeg": "/static/media/compp.bd4a1f952073f6fee8ef.jpeg",
+    "static/media/paperHand.jpeg": "/static/media/paperHand.91ba58fa0954db448efc.jpeg",
+    "static/media/maan.jpeg": "/static/media/maan.c765277a98ee2416c2bd.jpeg",
+    "static/media/coode.jpeg": "/static/media/coode.4cf0f28d54ab22340d59.jpeg",
+    "static/media/gooogl.png": "/static/media/gooogl.3438258aa5cf4bc60149.png",
+    "static/media/ifa-removebg-preview.png": "/static/media/ifa-removebg-preview.f30baf8dd308d6aa3c9c.png",
+    "static/media/gittla.png": "/static/media/gittla.eaa83b9eec0111e16eee.png",
+    "static/media/whitlogo.png": "/static/media/whitlogo.49a675dc71180f6e9f8d.png",
+    "static/media/mii-removebg-preview.png": "/static/media/mii-removebg-preview.78a29f402f600d2edb82.png",
+    "static/media/maclogo.png": "/static/media/maclogo.596359b368fe6b5be244.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.c9cfba0d.css.map": "/static/css/main.c9cfba0d.css.map",
+    "main.8af07a3a.js.map": "/static/js/main.8af07a3a.js.map",
+    "453.5ee68738.chunk.js.map": "/static/js/453.5ee68738.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9cfba0d.css",
+    "static/js/main.8af07a3a.js"
+  ]
+}
